@@ -1,0 +1,100 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "greeting sender",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "SimpleHelloIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "WhatCanIBuyIntent",
+                    "slots": [],
+                    "samples": [
+                        "what can I purchase",
+                        "what can I buy"
+                    ]
+                },
+                {
+                    "name": "BuySharingPackIntent",
+                    "slots": [],
+                    "samples": [
+                        "Buy sharing pack",
+                        "Get sharing pack"
+                    ]
+                },
+                {
+                    "name": "PurchaseHistoryIntent",
+                    "slots": [],
+                    "samples": [
+                        "order history",
+                        "what have I purchased",
+                        "what have I bought"
+                    ]
+                },
+                {
+                    "name": "RefundSharingPackIntent",
+                    "slots": [],
+                    "samples": [
+                        "return sharing pack",
+                        "refund sharing pack",
+                        "cancel sharing pack"
+                    ]
+                },
+                {
+                    "name": "TellMeMoreAboutSharingPackIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me more about sharing pack",
+                        "what is sharing pack"
+                    ]
+                },
+                {
+                    "name": "ShareGreetingIntent",
+                    "slots": [],
+                    "samples": [
+                        "share greeting",
+                        "send greeting"
+                    ]
+                },
+                {
+                    "name": "CoinInventoryIntent",
+                    "slots": [],
+                    "samples": [
+                        "coins remaining",
+                        "how many coins remaining",
+                        "how many coins do I have"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

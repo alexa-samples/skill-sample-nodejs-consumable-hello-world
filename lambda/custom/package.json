@@ -1,0 +1,17 @@
+{
+  "name": "skill-sample-nodejs-consumable-hello-world",
+  "version": "1.0.0",
+  "description": "In Skill Purchasing sample skill for Consumable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amazon Alexa",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.3.0",
+    "ask-sdk-model": "^1.4.1",
+    "aws-sdk": "^2.326.0",
+    "ask-sdk-s3-persistence-adapter": "^2.0.0"
+  }
+}
