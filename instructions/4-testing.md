@@ -1,4 +1,4 @@
-# Build An Alexa Skill with In-Skill Purchases - Premium Hello World
+# Build An Alexa Skill with  Consumable (ISP) - Greeting Sender
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 ## Testing Your Alexa Skill
