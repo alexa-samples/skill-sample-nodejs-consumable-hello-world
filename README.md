@@ -1,6 +1,9 @@
 # Build An Alexa Skill with  Consumable (ISP) - Greeting Sender
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/fact/header._TTH_.png" />
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 Adding premium content and functionalities to your skill is a way for you to monetize your skill. "Greeting Sender" is a sample Alexa skill that demonstrates how you can use Consumable in your Alexa Skill. "Consumable" are an in-skill product that you can use in your Alexa skill to allow customers to access content or features that can be purchased, depleted, and purchased again. For example, you can leverage consumable in-skill products as hints for a game, in-game currency, or extra lives. The Sharing Pack in our "Greeting Sender" sample skill is a consumable in-skill product that allows customers to buy "Sharing Coins" that they can use to send greetings with their friends.
 
 ## Skill Architecture
